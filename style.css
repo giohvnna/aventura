@@ -1,0 +1,17 @@
+body{
+    beckground-color: #49a7ff;
+    color:black;
+    font-family: "Playfair Display", sans-serif;
+    display: flex;
+    justify-content: center;
+    aling-itens: center;
+    height:700px;
+    margin: 0;
+
+}
+
+button{
+    background-color:black
+    color:aqua;
+    font-family:"bai jamjuree", sans-serif;
+}
